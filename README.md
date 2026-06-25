@@ -18,7 +18,7 @@ OmniBus Management System is a database-driven application for managing bus tran
 ## Technologies Used
 - Oracle SQL / PL-SQL
 - Python / GUI
-- Database Design (ERD/EERD)
+- Database Design (EERD)
 
 ## Setup Instructions
 1. Onmi-Bus-Management.sql
